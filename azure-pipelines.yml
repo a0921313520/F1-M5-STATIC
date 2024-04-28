@@ -17,7 +17,7 @@ variables:
   prod: 'f1'
   lang: 'hi'
   platform: 'static'
-  sourceCodeFolderName: 'F1-M3-STATIC'
+  sourceCodeFolderName: 'F1-M5-STATIC'
   commitHash: $(Build.SourceVersion)
   sourcesDirectory: $(Build.SourcesDirectory)
   buildNumber: $(Build.BuildNumber)
